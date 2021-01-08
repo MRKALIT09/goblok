@@ -1,3 +1,8 @@
+#copas? Recode? Copyright?
+#Anjing ngakak Mastah Kok Recode
+#lawak kau kontol
+#walaupun kau Recode Tidak Akan Menjadi Pembuat Scrip Ini
+#malu Lah Anjing Recode tross
 #!bin/bash
 clear
 bi='\033[34;1m' #biru
